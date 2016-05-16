@@ -1,0 +1,22 @@
+body {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #FC9;
+	padding: 0px;
+	width: 950px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.wrapper {
+	background-color: #9CF;
+	padding: 0px;
+	width: 950px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	color: #C00;
+}
